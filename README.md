@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PrepAI — Software Engineering Interview Coach
 
 A purpose-built AI chatbot for software engineering interview preparation, built with Next.js 14 and Claude.
@@ -85,3 +86,6 @@ prepai/
 │   │   └── topics.ts          # Topic configs + system prompts
 │   └── types/index.ts         # Shared TypeScript types
 ```
+=======
+# Software_engineer_Interview_coach_project
+>>>>>>> 152872f7010edfd5d9e60c9e3af0862d6b5e841d
